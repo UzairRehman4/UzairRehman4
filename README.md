@@ -1,6 +1,15 @@
 <h1 align="center">Hi, I'm Uzair Rehman</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/UzairRehman4?pet-id=655047170543181014"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairrehman4&label=Profile%20views&color=0e75b6&style=flat" alt="uzairrehman4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzairrehman4" alt="uzairrehman4" /></a> </p>
